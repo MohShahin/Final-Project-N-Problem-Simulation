@@ -1,0 +1,870 @@
+
+Avg iteration time: 0.012670 seconds
+Total time: 0.126704 seconds
+Number of particles 1000 
+Number of porcesses: 1
+
+Avg iteration time: 0.006380 seconds
+Total time: 0.063801 seconds
+Number of particles 1000 
+Number of porcesses: 2
+
+Avg iteration time: 0.007052 seconds
+Total time: 0.070518 seconds
+Number of particles 1000 
+Number of porcesses: 3
+
+Avg iteration time: 0.005854 seconds
+Total time: 0.058536 seconds
+Number of particles 1000 
+Number of porcesses: 4
+
+Avg iteration time: 0.049129 seconds
+Total time: 0.491286 seconds
+Number of particles 2000 
+Number of porcesses: 1
+
+Avg iteration time: 0.026504 seconds
+Total time: 0.265041 seconds
+Number of particles 2000 
+Number of porcesses: 2
+
+Avg iteration time: 0.020760 seconds
+Total time: 0.207601 seconds
+Number of particles 2000 
+Number of porcesses: 3
+
+Avg iteration time: 0.017093 seconds
+Total time: 0.170926 seconds
+Number of particles 2000 
+Number of porcesses: 4
+
+Avg iteration time: 0.108814 seconds
+Total time: 1.088143 seconds
+Number of particles 3000 
+Number of porcesses: 1
+
+Avg iteration time: 0.054773 seconds
+Total time: 0.547730 seconds
+Number of particles 3000 
+Number of porcesses: 2
+
+Avg iteration time: 0.044117 seconds
+Total time: 0.441173 seconds
+Number of particles 3000 
+Number of porcesses: 3
+
+Avg iteration time: 0.039037 seconds
+Total time: 0.390373 seconds
+Number of particles 3000 
+Number of porcesses: 4
+
+Avg iteration time: 0.191141 seconds
+Total time: 1.911409 seconds
+Number of particles 4000 
+Number of porcesses: 1
+
+Avg iteration time: 0.101497 seconds
+Total time: 1.014970 seconds
+Number of particles 4000 
+Number of porcesses: 2
+
+Avg iteration time: 0.075380 seconds
+Total time: 0.753804 seconds
+Number of particles 4000 
+Number of porcesses: 3
+
+Avg iteration time: 0.078459 seconds
+Total time: 0.784586 seconds
+Number of particles 4000 
+Number of porcesses: 4
+
+Avg iteration time: 0.302915 seconds
+Total time: 3.029153 seconds
+Number of particles 5000 
+Number of porcesses: 1
+
+Avg iteration time: 0.163806 seconds
+Total time: 1.638058 seconds
+Number of particles 5000 
+Number of porcesses: 2
+
+Avg iteration time: 0.120344 seconds
+Total time: 1.203440 seconds
+Number of particles 5000 
+Number of porcesses: 3
+
+Avg iteration time: 0.101544 seconds
+Total time: 1.015437 seconds
+Number of particles 5000 
+Number of porcesses: 4
+
+Avg iteration time: 0.449165 seconds
+Total time: 4.491646 seconds
+Number of particles 6000 
+Number of porcesses: 1
+
+Avg iteration time: 0.243998 seconds
+Total time: 2.439981 seconds
+Number of particles 6000 
+Number of porcesses: 2
+
+Avg iteration time: 0.186162 seconds
+Total time: 1.861618 seconds
+Number of particles 6000 
+Number of porcesses: 3
+
+Avg iteration time: 0.181154 seconds
+Total time: 1.811535 seconds
+Number of particles 6000 
+Number of porcesses: 4
+
+Avg iteration time: 0.640627 seconds
+Total time: 6.406271 seconds
+Number of particles 7000 
+Number of porcesses: 1
+
+Avg iteration time: 0.351652 seconds
+Total time: 3.516521 seconds
+Number of particles 7000 
+Number of porcesses: 2
+
+Avg iteration time: 0.278548 seconds
+Total time: 2.785482 seconds
+Number of particles 7000 
+Number of porcesses: 3
+
+Avg iteration time: 0.253425 seconds
+Total time: 2.534249 seconds
+Number of particles 7000 
+Number of porcesses: 4
+
+Avg iteration time: 0.012536 seconds
+Total time: 0.125357 seconds
+Number of particles 1000 
+Number of porcesses: 1
+
+Avg iteration time: 0.007583 seconds
+Total time: 0.075833 seconds
+Number of particles 1000 
+Number of porcesses: 2
+
+Avg iteration time: 0.006416 seconds
+Total time: 0.064163 seconds
+Number of particles 1000 
+Number of porcesses: 3
+
+Avg iteration time: 0.005862 seconds
+Total time: 0.058621 seconds
+Number of particles 1000 
+Number of porcesses: 4
+
+Avg iteration time: 0.049638 seconds
+Total time: 0.496384 seconds
+Number of particles 2000 
+Number of porcesses: 1
+
+Avg iteration time: 0.024047 seconds
+Total time: 0.240474 seconds
+Number of particles 2000 
+Number of porcesses: 2
+
+Avg iteration time: 0.021223 seconds
+Total time: 0.212228 seconds
+Number of particles 2000 
+Number of porcesses: 3
+
+Avg iteration time: 0.021957 seconds
+Total time: 0.219570 seconds
+Number of particles 2000 
+Number of porcesses: 4
+
+Avg iteration time: 0.113358 seconds
+Total time: 1.133582 seconds
+Number of particles 3000 
+Number of porcesses: 1
+
+Avg iteration time: 0.055863 seconds
+Total time: 0.558635 seconds
+Number of particles 3000 
+Number of porcesses: 2
+
+Avg iteration time: 0.042035 seconds
+Total time: 0.420348 seconds
+Number of particles 3000 
+Number of porcesses: 3
+
+Avg iteration time: 0.040597 seconds
+Total time: 0.405970 seconds
+Number of particles 3000 
+Number of porcesses: 4
+
+Avg iteration time: 0.191972 seconds
+Total time: 1.919717 seconds
+Number of particles 4000 
+Number of porcesses: 1
+
+Avg iteration time: 0.102580 seconds
+Total time: 1.025795 seconds
+Number of particles 4000 
+Number of porcesses: 2
+
+Avg iteration time: 0.078854 seconds
+Total time: 0.788541 seconds
+Number of particles 4000 
+Number of porcesses: 3
+
+Avg iteration time: 0.063465 seconds
+Total time: 0.634654 seconds
+Number of particles 4000 
+Number of porcesses: 4
+
+Avg iteration time: 0.300333 seconds
+Total time: 3.003333 seconds
+Number of particles 5000 
+Number of porcesses: 1
+
+Avg iteration time: 0.155669 seconds
+Total time: 1.556694 seconds
+Number of particles 5000 
+Number of porcesses: 2
+
+Avg iteration time: 0.115428 seconds
+Total time: 1.154279 seconds
+Number of particles 5000 
+Number of porcesses: 3
+
+Avg iteration time: 0.104985 seconds
+Total time: 1.049849 seconds
+Number of particles 5000 
+Number of porcesses: 4
+
+Avg iteration time: 0.433492 seconds
+Total time: 4.334920 seconds
+Number of particles 6000 
+Number of porcesses: 1
+
+Avg iteration time: 0.253141 seconds
+Total time: 2.531415 seconds
+Number of particles 6000 
+Number of porcesses: 2
+
+Avg iteration time: 0.205583 seconds
+Total time: 2.055826 seconds
+Number of particles 6000 
+Number of porcesses: 3
+
+Avg iteration time: 0.166820 seconds
+Total time: 1.668198 seconds
+Number of particles 6000 
+Number of porcesses: 4
+
+Avg iteration time: 0.615634 seconds
+Total time: 6.156338 seconds
+Number of particles 7000 
+Number of porcesses: 1
+
+Avg iteration time: 0.354671 seconds
+Total time: 3.546709 seconds
+Number of particles 7000 
+Number of porcesses: 2
+
+Avg iteration time: 0.288962 seconds
+Total time: 2.889618 seconds
+Number of particles 7000 
+Number of porcesses: 3
+
+Avg iteration time: 0.241441 seconds
+Total time: 2.414409 seconds
+Number of particles 7000 
+Number of porcesses: 4
+
+Avg iteration time: 0.829156 seconds
+Total time: 8.291557 seconds
+Number of particles 8000 
+Number of porcesses: 1
+
+Avg iteration time: 0.474895 seconds
+Total time: 4.748952 seconds
+Number of particles 8000 
+Number of porcesses: 2
+
+Avg iteration time: 0.374479 seconds
+Total time: 3.744795 seconds
+Number of particles 8000 
+Number of porcesses: 3
+
+Avg iteration time: 0.362413 seconds
+Total time: 3.624129 seconds
+Number of particles 8000 
+Number of porcesses: 4
+
+Avg iteration time: 1.098073 seconds
+Total time: 10.980725 seconds
+Number of particles 9000 
+Number of porcesses: 1
+
+Avg iteration time: 0.594996 seconds
+Total time: 5.949964 seconds
+Number of particles 9000 
+Number of porcesses: 2
+
+Avg iteration time: 0.443194 seconds
+Total time: 4.431941 seconds
+Number of particles 9000 
+Number of porcesses: 3
+
+Avg iteration time: 0.416902 seconds
+Total time: 4.169019 seconds
+Number of particles 9000 
+Number of porcesses: 4
+
+Avg iteration time: 1.400534 seconds
+Total time: 14.005342 seconds
+Number of particles 10000 
+Number of porcesses: 1
+
+Avg iteration time: 0.725772 seconds
+Total time: 7.257716 seconds
+Number of particles 10000 
+Number of porcesses: 2
+
+Avg iteration time: 0.547571 seconds
+Total time: 5.475709 seconds
+Number of particles 10000 
+Number of porcesses: 3
+
+Avg iteration time: 0.492477 seconds
+Total time: 4.924770 seconds
+Number of particles 10000 
+Number of porcesses: 4
+
+Avg iteration time: 0.012217 seconds
+Total time: 0.122167 seconds
+Number of particles 1000 
+Number of porcesses: 1
+
+Avg iteration time: 0.006549 seconds
+Total time: 0.065490 seconds
+Number of particles 1000 
+Number of porcesses: 2
+
+Avg iteration time: 0.007055 seconds
+Total time: 0.070548 seconds
+Number of particles 1000 
+Number of porcesses: 3
+
+Avg iteration time: 0.005924 seconds
+Total time: 0.059239 seconds
+Number of particles 1000 
+Number of porcesses: 4
+
+Avg iteration time: 0.049226 seconds
+Total time: 0.492263 seconds
+Number of particles 2000 
+Number of porcesses: 1
+
+Avg iteration time: 0.025025 seconds
+Total time: 0.250250 seconds
+Number of particles 2000 
+Number of porcesses: 2
+
+Avg iteration time: 0.021738 seconds
+Total time: 0.217382 seconds
+Number of particles 2000 
+Number of porcesses: 3
+
+Avg iteration time: 0.022089 seconds
+Total time: 0.220894 seconds
+Number of particles 2000 
+Number of porcesses: 4
+
+Avg iteration time: 0.108540 seconds
+Total time: 1.085404 seconds
+Number of particles 3000 
+Number of porcesses: 1
+
+Avg iteration time: 0.057296 seconds
+Total time: 0.572963 seconds
+Number of particles 3000 
+Number of porcesses: 2
+
+Avg iteration time: 0.043421 seconds
+Total time: 0.434213 seconds
+Number of particles 3000 
+Number of porcesses: 3
+
+Avg iteration time: 0.037469 seconds
+Total time: 0.374693 seconds
+Number of particles 3000 
+Number of porcesses: 4
+
+Avg iteration time: 0.213439 seconds
+Total time: 2.134389 seconds
+Number of particles 4000 
+Number of porcesses: 1
+
+Avg iteration time: 0.013305 seconds
+Total time: 0.133047 seconds
+Number of particles 1000 
+Number of porcesses: 1
+
+Avg iteration time: 0.006157 seconds
+Total time: 0.061571 seconds
+Number of particles 1000 
+Number of porcesses: 2
+
+Avg iteration time: 0.004687 seconds
+Total time: 0.046867 seconds
+Number of particles 1000 
+Number of porcesses: 3
+
+Avg iteration time: 0.005530 seconds
+Total time: 0.055300 seconds
+Number of particles 1000 
+Number of porcesses: 4
+
+Avg iteration time: 0.052032 seconds
+Total time: 0.520318 seconds
+Number of particles 2000 
+Number of porcesses: 1
+
+Avg iteration time: 0.026121 seconds
+Total time: 0.261214 seconds
+Number of particles 2000 
+Number of porcesses: 2
+
+Avg iteration time: 0.019708 seconds
+Total time: 0.197076 seconds
+Number of particles 2000 
+Number of porcesses: 3
+
+Avg iteration time: 0.016945 seconds
+Total time: 0.169452 seconds
+Number of particles 2000 
+Number of porcesses: 4
+
+Avg iteration time: 0.121208 seconds
+Total time: 1.212081 seconds
+Number of particles 3000 
+Number of porcesses: 1
+
+Avg iteration time: 0.057305 seconds
+Total time: 0.573045 seconds
+Number of particles 3000 
+Number of porcesses: 2
+
+Avg iteration time: 0.043192 seconds
+Total time: 0.431918 seconds
+Number of particles 3000 
+Number of porcesses: 3
+
+Avg iteration time: 0.038522 seconds
+Total time: 0.385216 seconds
+Number of particles 3000 
+Number of porcesses: 4
+
+Avg iteration time: 0.195510 seconds
+Total time: 1.955100 seconds
+Number of particles 4000 
+Number of porcesses: 1
+
+Avg iteration time: 0.102491 seconds
+Total time: 1.024912 seconds
+Number of particles 4000 
+Number of porcesses: 2
+
+Avg iteration time: 0.076508 seconds
+Total time: 0.765080 seconds
+Number of particles 4000 
+Number of porcesses: 3
+
+Avg iteration time: 0.064987 seconds
+Total time: 0.649867 seconds
+Number of particles 4000 
+Number of porcesses: 4
+
+Avg iteration time: 0.309068 seconds
+Total time: 3.090682 seconds
+Number of particles 5000 
+Number of porcesses: 1
+
+Avg iteration time: 0.167846 seconds
+Total time: 1.678460 seconds
+Number of particles 5000 
+Number of porcesses: 2
+
+Avg iteration time: 0.123533 seconds
+Total time: 1.235326 seconds
+Number of particles 5000 
+Number of porcesses: 3
+
+Avg iteration time: 0.097407 seconds
+Total time: 0.974066 seconds
+Number of particles 5000 
+Number of porcesses: 4
+
+Avg iteration time: 0.455736 seconds
+Total time: 4.557357 seconds
+Number of particles 6000 
+Number of porcesses: 1
+
+Avg iteration time: 0.249487 seconds
+Total time: 2.494870 seconds
+Number of particles 6000 
+Number of porcesses: 2
+
+Avg iteration time: 0.186374 seconds
+Total time: 1.863744 seconds
+Number of particles 6000 
+Number of porcesses: 3
+
+Avg iteration time: 0.165379 seconds
+Total time: 1.653789 seconds
+Number of particles 6000 
+Number of porcesses: 4
+
+Avg iteration time: 0.647745 seconds
+Total time: 6.477449 seconds
+Number of particles 7000 
+Number of porcesses: 1
+
+Avg iteration time: 0.348540 seconds
+Total time: 3.485400 seconds
+Number of particles 7000 
+Number of porcesses: 2
+
+Avg iteration time: 0.276380 seconds
+Total time: 2.763798 seconds
+Number of particles 7000 
+Number of porcesses: 3
+
+Avg iteration time: 0.249101 seconds
+Total time: 2.491007 seconds
+Number of particles 7000 
+Number of porcesses: 4
+
+Avg iteration time: 0.895150 seconds
+Total time: 8.951496 seconds
+Number of particles 8000 
+Number of porcesses: 1
+
+Avg iteration time: 0.489875 seconds
+Total time: 4.898750 seconds
+Number of particles 8000 
+Number of porcesses: 2
+
+Avg iteration time: 0.369685 seconds
+Total time: 3.696849 seconds
+Number of particles 8000 
+Number of porcesses: 3
+
+Avg iteration time: 0.299790 seconds
+Total time: 2.997903 seconds
+Number of particles 8000 
+Number of porcesses: 4
+
+Avg iteration time: 1.154451 seconds
+Total time: 11.544506 seconds
+Number of particles 9000 
+Number of porcesses: 1
+
+Avg iteration time: 0.625083 seconds
+Total time: 6.250832 seconds
+Number of particles 9000 
+Number of porcesses: 2
+
+Avg iteration time: 0.439074 seconds
+Total time: 4.390740 seconds
+Number of particles 9000 
+Number of porcesses: 3
+
+Avg iteration time: 0.415183 seconds
+Total time: 4.151830 seconds
+Number of particles 9000 
+Number of porcesses: 4
+
+Avg iteration time: 1.377612 seconds
+Total time: 13.776120 seconds
+Number of particles 10000 
+Number of porcesses: 1
+
+Avg iteration time: 0.755508 seconds
+Total time: 7.555083 seconds
+Number of particles 10000 
+Number of porcesses: 2
+
+Avg iteration time: 0.576939 seconds
+Total time: 5.769390 seconds
+Number of particles 10000 
+Number of porcesses: 3
+
+Avg iteration time: 0.560926 seconds
+Total time: 5.609261 seconds
+Number of particles 10000 
+Number of porcesses: 4
+
+Avg iteration time: 1.656799 seconds
+Total time: 16.567987 seconds
+Number of particles 11000 
+Number of porcesses: 1
+
+Avg iteration time: 0.012394 seconds
+Total time: 0.123941 seconds
+Number of particles 1000 
+Number of porcesses: 1
+
+Avg iteration time: 0.006830 seconds
+Total time: 0.068296 seconds
+Number of particles 1000 
+Number of porcesses: 2
+
+Avg iteration time: 0.005830 seconds
+Total time: 0.058296 seconds
+Number of particles 1000 
+Number of porcesses: 3
+
+Avg iteration time: 0.005910 seconds
+Total time: 0.059099 seconds
+Number of particles 1000 
+Number of porcesses: 4
+
+Avg iteration time: 0.453825 seconds
+Total time: 4.538249 seconds
+Number of particles 6000 
+Number of porcesses: 1
+
+Avg iteration time: 0.233851 seconds
+Total time: 2.338512 seconds
+Number of particles 6000 
+Number of porcesses: 2
+
+Avg iteration time: 0.174646 seconds
+Total time: 1.746457 seconds
+Number of particles 6000 
+Number of porcesses: 3
+
+Avg iteration time: 0.159240 seconds
+Total time: 1.592402 seconds
+Number of particles 6000 
+Number of porcesses: 4
+
+Avg iteration time: 1.605107 seconds
+Total time: 16.051070 seconds
+Number of particles 11000 
+Number of porcesses: 1
+
+Avg iteration time: 0.895765 seconds
+Total time: 8.957647 seconds
+Number of particles 11000 
+Number of porcesses: 2
+
+Avg iteration time: 0.707734 seconds
+Total time: 7.077338 seconds
+Number of particles 11000 
+Number of porcesses: 3
+
+Avg iteration time: 0.615984 seconds
+Total time: 6.159844 seconds
+Number of particles 11000 
+Number of porcesses: 4
+
+Avg iteration time: 3.507687 seconds
+Total time: 35.076867 seconds
+Number of particles 16000 
+Number of porcesses: 1
+
+Avg iteration time: 1.918110 seconds
+Total time: 19.181100 seconds
+Number of particles 16000 
+Number of porcesses: 2
+
+Avg iteration time: 1.526538 seconds
+Total time: 15.265383 seconds
+Number of particles 16000 
+Number of porcesses: 3
+
+Avg iteration time: 1.269170 seconds
+Total time: 12.691703 seconds
+Number of particles 16000 
+Number of porcesses: 4
+
+Avg iteration time: 5.966437 seconds
+Total time: 59.664371 seconds
+Number of particles 21000 
+Number of porcesses: 1
+
+Avg iteration time: 3.323708 seconds
+Total time: 33.237081 seconds
+Number of particles 21000 
+Number of porcesses: 2
+
+Avg iteration time: 2.579425 seconds
+Total time: 25.794254 seconds
+Number of particles 21000 
+Number of porcesses: 3
+
+Avg iteration time: 2.174314 seconds
+Total time: 21.743140 seconds
+Number of particles 21000 
+Number of porcesses: 4
+
+Avg iteration time: 9.081422 seconds
+Total time: 90.814221 seconds
+Number of particles 26000 
+Number of porcesses: 1
+
+Avg iteration time: 5.125532 seconds
+Total time: 51.255320 seconds
+Number of particles 26000 
+Number of porcesses: 2
+
+Avg iteration time: 3.975179 seconds
+Total time: 39.751787 seconds
+Number of particles 26000 
+Number of porcesses: 3
+
+Avg iteration time: 3.315857 seconds
+Total time: 33.158568 seconds
+Number of particles 26000 
+Number of porcesses: 4
+
+Avg iteration time: 13.023686 seconds
+Total time: 130.236863 seconds
+Number of particles 31000 
+Number of porcesses: 1
+
+Avg iteration time: 7.336482 seconds
+Total time: 73.364821 seconds
+Number of particles 31000 
+Number of porcesses: 2
+
+Avg iteration time: 5.679645 seconds
+Total time: 56.796450 seconds
+Number of particles 31000 
+Number of porcesses: 3
+
+Avg iteration time: 4.799541 seconds
+Total time: 47.995410 seconds
+Number of particles 31000 
+Number of porcesses: 4
+
+Avg iteration time: 19.348886 seconds
+Total time: 193.488865 seconds
+Number of particles 36000 
+Number of porcesses: 1
+
+Avg iteration time: 10.886335 seconds
+Total time: 108.863348 seconds
+Number of particles 36000 
+Number of porcesses: 2
+
+Avg iteration time: 7.657245 seconds
+Total time: 76.572454 seconds
+Number of particles 36000 
+Number of porcesses: 3
+
+Avg iteration time: 6.482683 seconds
+Total time: 64.826832 seconds
+Number of particles 36000 
+Number of porcesses: 4
+
+Avg iteration time: 23.449063 seconds
+Total time: 234.490625 seconds
+Number of particles 41000 
+Number of porcesses: 1
+
+Avg iteration time: 13.293477 seconds
+Total time: 132.934774 seconds
+Number of particles 41000 
+Number of porcesses: 2
+
+Avg iteration time: 10.655088 seconds
+Total time: 106.550885 seconds
+Number of particles 41000 
+Number of porcesses: 3
+
+Avg iteration time: 12.872919 seconds
+Total time: 128.729186 seconds
+Number of particles 41000 
+Number of porcesses: 4
+
+Avg iteration time: 37.482880 seconds
+Total time: 374.828796 seconds
+Number of particles 46000 
+Number of porcesses: 1
+
+Avg iteration time: 25.187799 seconds
+Total time: 251.877990 seconds
+Number of particles 46000 
+Number of porcesses: 2
+
+Avg iteration time: 18.162181 seconds
+Total time: 181.621812 seconds
+Number of particles 46000 
+Number of porcesses: 3
+
+Avg iteration time: 16.244408 seconds
+Total time: 162.444082 seconds
+Number of particles 46000 
+Number of porcesses: 4
+
+Avg iteration time: 43.055435 seconds
+Total time: 430.554353 seconds
+Number of particles 51000 
+Number of porcesses: 1
+
+Avg iteration time: 23.983316 seconds
+Total time: 239.833155 seconds
+Number of particles 51000 
+Number of porcesses: 2
+
+Avg iteration time: 20.331767 seconds
+Total time: 203.317671 seconds
+Number of particles 51000 
+Number of porcesses: 3
+
+Avg iteration time: 19.600789 seconds
+Total time: 196.007894 seconds
+Number of particles 51000 
+Number of porcesses: 4
+
+Avg iteration time: 51.136861 seconds
+Total time: 511.368609 seconds
+Number of particles 56000 
+Number of porcesses: 1
+
+Avg iteration time: 29.460770 seconds
+Total time: 294.607705 seconds
+Number of particles 56000 
+Number of porcesses: 2
+
+Avg iteration time: 25.491520 seconds
+Total time: 254.915199 seconds
+Number of particles 56000 
+Number of porcesses: 3
+
+Avg iteration time: 23.789736 seconds
+Total time: 237.897362 seconds
+Number of particles 56000 
+Number of porcesses: 4
+
+Avg iteration time: 65.950585 seconds
+Total time: 659.505849 seconds
+Number of particles 61000 
+Number of porcesses: 1
+
+Avg iteration time: 35.356871 seconds
+Total time: 353.568713 seconds
+Number of particles 61000 
+Number of porcesses: 2
+
+Avg iteration time: 29.469186 seconds
+Total time: 294.691865 seconds
+Number of particles 61000 
+Number of porcesses: 3
+
+Avg iteration time: 31.665698 seconds
+Total time: 316.656978 seconds
+Number of particles 61000 
+Number of porcesses: 4
